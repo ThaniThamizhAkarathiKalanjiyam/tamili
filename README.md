@@ -2,7 +2,7 @@
 This is collection of tamil letters from old age to vatteluththu to current tamil letters. [web site](https://thanithamizhakarathikalanjiyam.github.io/tamili/) இது தமிழ் எழுத்துக்களின் வடிவம் பற்றிய தொகுப்பு. இதைக் கொண்டு தமிழின் எழுத்துக்களை கல்வெட்டுக்களை படிக்க முடியும்.
 <style type="text/css">
 	    @font-face { font-family: "e-Vatteluttu OT"; src:
-    url(thanithamizhakarathikalanjiyam.github.io/tamili/VatteluttuPackage/e-Vatteluttu OT.ttf)
+    url("https://thanithamizhakarathikalanjiyam.github.io/tamili/VatteluttuPackage/e-Vatteluttu OT.ttf")
     format("truetype"); }
 .custom {
 	font-family: "e-Vatteluttu OT";
