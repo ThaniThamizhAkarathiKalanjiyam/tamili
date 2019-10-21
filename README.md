@@ -6,17 +6,9 @@
 
 This is collection of tamil letters from old age to vatteluththu to current tamil letters. 
 
-[web site](https://thanithamizhakarathikalanjiyam.github.io/tamili/) 
-<style type="text/css">
-	    @font-face { font-family: "e-Vatteluttu OT"; src:
-    url("https://thanithamizhakarathikalanjiyam.github.io/tamili/VatteluttuPackage/e-Vatteluttu OT.ttf")
-    format("truetype"); }
-.custom {
-	font-family: "e-Vatteluttu OT";
-	color: red;
-	font-size:20px;
-}
-</style>
+[web site](https://thanithamizhakarathikalanjiyam.github.io/tamili/) https://thanithamizhakarathikalanjiyam.github.io/tamili/
+
+
  <table cellspacing="0" cellpadding="0" border="1">
       <tbody>
         <tr>
@@ -619,3 +611,13 @@ Thanks to an email with epmty images, S.P.SENTHIL KUMAR at the message https://g
    
 
 
+<style type="text/css">
+@font-face { font-family: "e-Vatteluttu OT"; src:
+    url("https://thanithamizhakarathikalanjiyam.github.io/tamili/VatteluttuPackage/e-Vatteluttu OT.ttf")
+    format("truetype"); }
+.custom {
+	font-family: "e-Vatteluttu OT";
+	color: red;
+	font-size:20px;
+}
+</style>
