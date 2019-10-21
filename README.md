@@ -6,9 +6,10 @@ This is collection of tamil letters from old age to vatteluththu to current tami
 - 1.Download from above link zip or tar format
 - 2.Extract the downloaded file
 - 3.at the extracted folder you see following structure
-- 3.1.|- ta_letters_img : containt collection of tamil letters
-- 3.2.|- |- tamili.pdf 
-- 3.3.|- |- README.md
+- 3.1.|- ta_letters_img |- containt collection of tamil letters
+- 3.2.|- tamili.pdf |- 
+- 3.3.|- README.md |- 
+- 3.3.|- Vatteluttu Package |- contains https://www.aai.uni-hamburg.de package
 
 ### A story behind this repo
 
